@@ -1,0 +1,5 @@
+# Дополнения для VPS (nginx на хосте, Streamlit за прокси).
+services:
+  curator:
+    environment:
+      STREAMLIT_BEHIND_PROXY: "1"

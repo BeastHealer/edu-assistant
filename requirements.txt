@@ -1,0 +1,23 @@
+# ИИ-куратор образовательной платформы EduPath
+streamlit>=1.33.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-gigachat>=0.3.0
+gigachat>=0.1.35
+chromadb>=0.5.0
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+python-dotenv>=1.0.1
+pandas>=2.2.0
+plotly>=5.20.0
+scikit-learn>=1.4.0
+pyyaml>=6.0.1
+python-dateutil>=2.9.0
+tzdata>=2024.1
+pytest>=8.0.0
+
+# Опционально: более качественные эмбеддинги (скачивается модель ~120 МБ)
+# sentence-transformers>=3.0.0
+# langchain-openai>=0.2.0

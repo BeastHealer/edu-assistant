@@ -1,0 +1,41 @@
+{
+  "course_id": "DS-2026-SEP",
+  "modules": [
+    {
+      "id": "M1",
+      "title": "Введение в Data Science",
+      "week": 1,
+      "status": "published"
+    },
+    {
+      "id": "M2",
+      "title": "Python и pandas",
+      "week": 2,
+      "status": "published"
+    },
+    {
+      "id": "M3",
+      "title": "Визуализация данных",
+      "week": 3,
+      "status": "published"
+    },
+    {
+      "id": "M4",
+      "title": "Статистика для аналитика",
+      "week": 4,
+      "status": "published"
+    },
+    {
+      "id": "M5",
+      "title": "Основы машинного обучения",
+      "week": 5,
+      "status": "published"
+    },
+    {
+      "id": "M6",
+      "title": "Итоговый проект",
+      "week": 7,
+      "status": "published"
+    }
+  ]
+}

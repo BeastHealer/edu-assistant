@@ -1,0 +1,45 @@
+{
+  "disclaimer": "Вымышленные учебные профили. Не являются персональными данными реальных людей.",
+  "students": [
+    {
+      "student_id": "STU-1001",
+      "display_name": "Анна П.",
+      "track_level": "beginner",
+      "group": "DS-A",
+      "progress_percent": 35,
+      "completed_modules": ["M1"]
+    },
+    {
+      "student_id": "STU-1002",
+      "display_name": "Дмитрий С.",
+      "track_level": "advanced",
+      "group": "DS-A",
+      "progress_percent": 62,
+      "completed_modules": ["M1", "M2", "M3"]
+    },
+    {
+      "student_id": "STU-1003",
+      "display_name": "Мария К.",
+      "track_level": "beginner",
+      "group": "DS-B",
+      "progress_percent": 20,
+      "completed_modules": []
+    },
+    {
+      "student_id": "STU-1004",
+      "display_name": "Игорь Л.",
+      "track_level": "advanced",
+      "group": "DS-B",
+      "progress_percent": 48,
+      "completed_modules": ["M1", "M2"]
+    },
+    {
+      "student_id": "STU-1005",
+      "display_name": "Ольга Н.",
+      "track_level": "beginner",
+      "group": "DS-A",
+      "progress_percent": 55,
+      "completed_modules": ["M1", "M2", "M3"]
+    }
+  ]
+}
